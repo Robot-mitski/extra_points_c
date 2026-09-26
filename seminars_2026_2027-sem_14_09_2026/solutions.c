@@ -46,3 +46,8 @@ const char* day_of_week(int day_num) {
 int count_digits(int n) {
     return 0;
 }
+// Задача 1 - Пирожки в столовой
+int remaining_kopecks(int a, int b, int n) {
+    return ((a * 100 + b) * n) % 100;
+}
+
