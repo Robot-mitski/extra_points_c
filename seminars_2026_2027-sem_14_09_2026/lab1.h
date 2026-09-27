@@ -31,4 +31,7 @@ int remaining_kopecks(int a, int b, int n);
 // Задача 2 - Как поделить яблоки
 int apples_left(int n, int k);
 
+// Задача 3 - Расстояние в километрах
+int full_kilometers(int meters);
+
 #endif

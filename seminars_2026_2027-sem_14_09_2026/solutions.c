@@ -47,6 +47,10 @@ int count_digits(int n) {
     return 0;
 }
 
+// Задача 3 - Расстояние в километрах
+int full_kilometers(int meters) {
+    return meters / 1000;
+}
 // Задача 2 - Как поделить яблоки
 int apples_left(int n, int k) {
     return k % n;
