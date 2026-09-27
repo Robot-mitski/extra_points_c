@@ -51,3 +51,12 @@ int count_digits(int n) {
 int full_kilometers(int meters) {
     return meters / 1000;
 }
+// Задача 2 - Как поделить яблоки
+int apples_left(int n, int k) {
+    return k % n;
+}
+// Задача 1 - Пирожки в столовой
+int remaining_kopecks(int a, int b, int n) {
+    return ((a * 100 + b) * n) % 100;
+}
+
