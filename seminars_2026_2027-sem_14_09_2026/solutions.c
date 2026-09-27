@@ -46,3 +46,8 @@ const char* day_of_week(int day_num) {
 int count_digits(int n) {
     return 0;
 }
+
+// Задача 3 - Расстояние в километрах
+int full_kilometers(int meters) {
+    return meters / 1000;
+}
