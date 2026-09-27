@@ -46,3 +46,8 @@ const char* day_of_week(int day_num) {
 int count_digits(int n) {
     return 0;
 }
+
+// Задача 2 - Как поделить яблоки
+int apples_left(int n, int k) {
+    return k % n;
+}

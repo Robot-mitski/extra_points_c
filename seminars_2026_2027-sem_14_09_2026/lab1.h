@@ -25,4 +25,7 @@ const char* day_of_week(int day_num);
 // Подсчитать количество цифр в числе
 int count_digits(int n);
 
+// Задача 2 - Как поделить яблоки
+int apples_left(int n, int k);
+
 #endif
