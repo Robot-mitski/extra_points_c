@@ -24,6 +24,9 @@ const char* day_of_week(int day_num);
 // Задача 14 - Подсчёт цифр в числе
 // Подсчитать количество цифр в числе
 int count_digits(int n);
+// Задача 1 - Пирожки в столовой
+// Вернуть количество копеек в стоимости n пирожков
+int remaining_kopecks(int a, int b, int n);
 
 // Задача 2 - Как поделить яблоки
 int apples_left(int n, int k);
