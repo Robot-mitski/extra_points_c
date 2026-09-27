@@ -28,4 +28,7 @@ int count_digits(int n);
 // Вернуть количество копеек в стоимости n пирожков
 int remaining_kopecks(int a, int b, int n);
 
+// Задача 2 - Как поделить яблоки
+int apples_left(int n, int k);
+
 #endif
